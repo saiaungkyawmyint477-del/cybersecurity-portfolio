@@ -1,16 +1,62 @@
-# React + Vite
+# Sai Aung Kyaw Myint — Cybersecurity Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+My personal internship portfolio as a Year 2 Diploma in Cybersecurity & Digital Forensics student.
 
-Currently, two official plugins are available:
+My interests include network security and penetration testing, and I’m keen to explore SOC analysis.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Live website
 
-## React Compiler
+[Visit my portfolio](https://cybersecurity-portfolio-bice.vercel.app/)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Website sections
 
-## Expanding the ESLint configuration
+- Introduction and cybersecurity interests
+- Projects — write-ups to be added
+- Completed and current coursework
+- Tools I’ve used
+- Spoken languages
+- GitHub and LinkedIn contact links
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech stack
+
+- React with JavaScript
+- Vite
+- Tailwind CSS
+- ESLint
+- Git and GitHub
+- Vercel hosting
+
+## Run locally on Windows
+
+Install Node.js LTS and Git, then open the project folder in VS Code.
+
+Install the project packages:
+
+```powershell
+npm.cmd install
+```
+
+Start the local preview:
+
+```powershell
+npm.cmd run dev
+```
+
+Open the local address shown in the terminal.
+
+## Check the project
+
+```powershell
+npm.cmd run lint
+npm.cmd run build
+```
+
+## Deployment
+
+The website is hosted on Vercel and connected to this GitHub repository.
+Pushing commits to the main branch triggers an automatic deployment.
+
+## Links
+
+- [GitHub](https://github.com/saiaungkyawmyint477-del)
+- [LinkedIn](https://www.linkedin.com/in/sai-aung-kyaw-myint-126458376/)
