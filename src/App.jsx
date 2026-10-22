@@ -1,6 +1,6 @@
 export default function App() {
   return (
-    <main className="min-h-screen bg-slate-950 px-6 py-20 text-slate-100">
+    <main id="top" className="min-h-screen bg-slate-950 px-6 py-20 text-slate-100">
       <div className="mx-auto max-w-4xl">
         <p className="mb-4 font-mono text-cyan-400">
           Cybersecurity &amp; Digital Forensics
@@ -202,6 +202,18 @@ export default function App() {
             ))}
           </div>
         </section>
+                <footer className="mt-16 flex flex-wrap items-center justify-between gap-4 border-t border-slate-800 pt-6 text-sm text-slate-400">
+          <p>
+            © {new Date().getFullYear()} Sai Aung Kyaw Myint
+          </p>
+
+          <a
+            href="#top"
+            className="rounded hover:text-cyan-300 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-cyan-300"
+          >
+            Back to top ↑
+          </a>
+        </footer>
       </div>
     </main>
   )
