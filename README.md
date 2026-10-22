@@ -1,50 +1,42 @@
 # Sai Aung Kyaw Myint — Cybersecurity Portfolio
 
-My personal internship portfolio as a Year 2 Diploma in Cybersecurity & Digital Forensics student.
+Personal internship portfolio for a Year 2 Diploma in Cybersecurity & Digital Forensics student at Temasek Polytechnic.
 
-My interests include network security and penetration testing, and I’m keen to explore SOC analysis.
+[Visit the live portfolio](https://cybersecurity-portfolio-bice.vercel.app/)
 
-## Live website
+## Sections
 
-[Visit my portfolio](https://cybersecurity-portfolio-bice.vercel.app/)
-
-## Website sections
-
-- Introduction and cybersecurity interests
-- Projects — write-ups to be added
-- Completed and current coursework
-- Tools I’ve used
-- Spoken languages
+- Selected academic projects with expandable summaries
+- Technical skills and tools used
+- Audio visual work experience
+- Educational background and spoken languages
 - GitHub and LinkedIn contact links
 
-## Tech stack
+## Selected projects
 
-- React with JavaScript
-- Vite
-- Tailwind CSS
-- ESLint
-- Git and GitHub
-- Vercel hosting
+- Enterprise network design and verification in Cisco Packet Tracer
+- Authorised web application penetration-testing laboratory
+- Group digital-forensics investigation, with individual contribution identified
+- Restaurant customer analytics workflow in KNIME
+
+Public project summaries omit credentials, student identifiers, teammates' personal details, and raw forensic evidence. Research proposals are distinguished from implemented network controls.
+
+## Website stack
+
+React, JavaScript, HTML, CSS, Tailwind CSS, Vite, and ESLint. Source code is maintained with Git and GitHub, with hosting on Vercel.
 
 ## Run locally on Windows
 
 Install Node.js LTS and Git, then open the project folder in VS Code.
 
-Install the project packages:
-
 ```powershell
 npm.cmd install
-```
-
-Start the local preview:
-
-```powershell
 npm.cmd run dev
 ```
 
-Open the local address shown in the terminal.
+Open the local address printed by Vite.
 
-## Check the project
+## Check the code
 
 ```powershell
 npm.cmd run lint
@@ -53,10 +45,9 @@ npm.cmd run build
 
 ## Deployment
 
-The website is hosted on Vercel and connected to this GitHub repository.
-Pushing commits to the main branch triggers an automatic deployment.
+Vercel is connected to the GitHub repository. Pushing commits to `main` triggers an automatic deployment.
 
-## Links
+## Profiles
 
 - [GitHub](https://github.com/saiaungkyawmyint477-del)
 - [LinkedIn](https://www.linkedin.com/in/sai-aung-kyaw-myint-126458376/)
