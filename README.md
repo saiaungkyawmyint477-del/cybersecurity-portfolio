@@ -17,7 +17,6 @@ Personal internship portfolio for a Year 2 Diploma in Cybersecurity & Digital Fo
 - Enterprise network design and verification in Cisco Packet Tracer
 - Authorised web application penetration-testing laboratory
 - Group digital-forensics investigation, with individual contribution identified
-- Restaurant customer analytics workflow in KNIME
 
 Public project summaries omit credentials, student identifiers, teammates' personal details, and raw forensic evidence. Research proposals are distinguished from implemented network controls.
 
